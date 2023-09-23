@@ -1,4 +1,4 @@
-package common_constants
+package constants
 
 /*
 Country represents a country in the world as specified in the official short name in English as in ISO 3166. Source: https://unece.org/trade/cefact/unlocode-code-list-country-and-territory

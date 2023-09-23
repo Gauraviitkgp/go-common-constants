@@ -1,4 +1,4 @@
-package common_constants
+package constants
 
 /*
 UNCountryName is a constant for the United Nations full country name. Source from https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Protocol/officialnamesofcountries.pdf

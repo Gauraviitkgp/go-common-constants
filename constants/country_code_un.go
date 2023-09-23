@@ -1,4 +1,4 @@
-package common_constants
+package constants
 
 /*
 UNCountryCode is a UN country code as specified in ISO 3166-1-alpha-2 code elements. Source:https://unece.org/trade/cefact/unlocode-code-list-country-and-territory
